@@ -4,7 +4,7 @@ React Native Google Analytics
 =========
 
 Google Analytics integration for use with React Native apps.
-
+ 
 Please create issues for any bugs you find or features you would like added.
 
 ## Installation
